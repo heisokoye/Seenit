@@ -340,7 +340,7 @@ export const mediaData = [
     ],
     description: "When an evil spirit known as Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world.",
     detailedReview: "Rise of the Guardians is a visually spectacular fantasy that reimagines childhood icons as warriors for hope. Jack Frost's journey from a lonely prankster to a Guardian is handled with surprising emotional maturity, exploring themes of invisibility and the need to be seen. The animation is top-tier, especially in its depiction of ice, sand, and dreams, making it one of the most aesthetically beautiful animated films of its era.",
-    topScene: "J The Sandman vs. Pitch: Sandy and Jack Frost go head to head against Pitch in order to stop him from spreading his nightmares to children.",
+    topScene: "The Sandman vs. Pitch: Sandy and Jack Frost go head to head against Pitch in order to stop him from spreading his nightmares to children.",
     topSceneVideoUrl: "https://www.youtube.com/embed/gzbYTUXZkSI"
   },
   {
