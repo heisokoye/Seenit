@@ -94,7 +94,7 @@ const MediaDetail = () => {
                       <div className="aspect-video w-full rounded-xl overflow-hidden shadow-2xl shadow-black/80 mb-6 border border-white/10 bg-black relative">
                         <iframe 
                           className="w-[140%] h-[300%] absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 brightness-110"
-                          src={`${media.topSceneVideoUrl}?autoplay=0&controls=1&showinfo=0&modestbranding=1&rel=0&playsinline=1&iv_load_policy=3&vq=hd720&playlist=${media.topSceneVideoUrl.split('/').pop()}`}
+                          src={`${media.topSceneVideoUrl}?autoplay=0&controls=1&showinfo=0&modestbranding=1&rel=0&playsinline=1&iv_load_policy=3&vq=hd1080&playlist=${media.topSceneVideoUrl.split('/').pop()}`}
                           title="Favorite Scene"
                           frameBorder="0" 
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

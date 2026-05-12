@@ -6,7 +6,7 @@ import { mediaData } from '../data/media';
 const Home = () => {
   // Select specific featured media for the hero carousel
   const featuredMediaList = mediaData.filter(m => 
-    ["show-1", "show-3", "movie-1", "cartoon-3"].includes(m.id)
+    ["show-1", "show-3", "movie-1", "cartoon-4"].includes(m.id)
   );
 
   // Group media by type
