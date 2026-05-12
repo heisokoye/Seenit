@@ -77,7 +77,7 @@ const HeroSection = ({ mediaList }) => {
           </h1>
           
           {!isPlaying && (
-            <p className="text-lg md:text-xl text-gray-300 leading-relaxed drop-shadow-md mb-8 max-h-32 overflow-hidden">
+            <p className="text-lg md:text-xl text-gray-300 leading-relaxed drop-shadow-md mb-8 line-clamp-3">
               {currentMedia.description}
             </p>
           )}
