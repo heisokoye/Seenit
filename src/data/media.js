@@ -357,8 +357,8 @@ export const mediaData = [
     ],
     description: "A young boy known as the Avatar must master all four elements to restore balance to a world at war with the Fire Nation.",
     detailedReview: "Avatar: The Last Airbender is widely considered one of the greatest stories ever told in animation. It masterfully balances humor, action, and profound emotional depth. The show's exploration of themes like genocide, imperialism, and redemption—particularly through Zuko's legendary character arc—elevates it far beyond a simple children's cartoon. The world-building is rich, the music is atmospheric, and the final four-part finale is a cinematic masterpiece in its own right.",
-    topScene: "vs Fire Lord Ozai is a breathtaking clash of chaos and balance where the Avatar unleashes godlike elemental power yet chooses mercy over destruction.",
-    topSceneVideoUrl: "https://www.youtube.com/embed/dMmjromw5Uc"
+    topScene: "Avatar vs Fire Lord Ozai is a breathtaking clash of chaos and balance where the Avatar unleashes godlike elemental power yet chooses mercy over destruction.",
+    topSceneVideoUrl: "https://www.youtube.com/embed/mZhtza3sCmg"
   },
   {
     id: "cartoon-3",

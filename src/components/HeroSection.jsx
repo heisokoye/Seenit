@@ -55,7 +55,7 @@ const HeroSection = ({ mediaList }) => {
             {/* Seamless Exit Button */}
             <button 
               onClick={() => setIsPlaying(false)}
-              className="absolute top-8 right-8 z-50 flex items-center gap-2 px-4 py-2 bg-black/30 hover:bg-black/60 rounded-full text-white/70 hover:text-white backdrop-blur-md transition-all border border-white/10 group pointer-events-auto"
+              className="absolute top-8 right-8 z-50 flex items-center gap-2 px-2 py-2 bg-black/30 hover:bg-black/60 rounded-full text-white/70 hover:text-white backdrop-blur-md transition-all border border-white/10 group pointer-events-auto"
             >
               <X className="w-5 h-5 group-hover:scale-110 transition-transform" />
             </button>
