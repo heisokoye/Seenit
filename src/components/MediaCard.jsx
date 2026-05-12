@@ -22,7 +22,7 @@ const MediaCard = ({ media }) => {
           
           <div className="flex items-center gap-2 text-sm text-gray-300 font-medium">
             <Play className="w-4 h-4" />
-            Watch Trailer & Details
+            Watch Scene & Details
           </div>
         </div>
       </div>

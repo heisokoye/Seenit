@@ -84,23 +84,23 @@ const MediaDetail = () => {
                 )}
                 
                 {media.topScene && (
-                  <div className="bg-linear-to-br from-rose-950/30 to-black/40 p-2 md:p-6 rounded-2xl border border-rose-500/10 shadow-xl overflow-hidden">
+                  <div className="bg-linear-to-br from-rose-950/30 to-black/40 px-1 md:p-6 rounded-2xl border border-rose-500/10 shadow-xl overflow-hidden">
                     <h2 className="text-xl font-bold tracking-tight text-rose-100 flex items-center gap-3 mb-6">
                       <Star className="w-5 h-5 text-rose-500 fill-rose-500" />
                       Favorite Scene
                     </h2>
                     
                     {media.topSceneVideoUrl && (
-                      <div className="aspect-video w-full rounded-xl overflow-hidden shadow-2xl shadow-black/50 mb-6 border border-white/10 bg-black relative pointer-events-none">
+                      <div className="aspect-video w-full rounded-xl overflow-hidden shadow-2xl shadow-black/80 mb-6 border border-white/10 bg-black relative">
                         <iframe 
-                          className="w-[130%] h-[130%] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-                          src={`${media.topSceneVideoUrl}?autoplay=1&mute=1&controls=0&showinfo=0&modestbranding=1&rel=0&playsinline=1&disablekb=1&loop=1&vq=hd1080&playlist=${media.topSceneVideoUrl.split('/').pop()}`}
+                          className="w-[140%] h-[300%] absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 brightness-110"
+                          src={`${media.topSceneVideoUrl}?autoplay=0&controls=1&showinfo=0&modestbranding=1&rel=0&playsinline=1&iv_load_policy=3&vq=hd720&playlist=${media.topSceneVideoUrl.split('/').pop()}`}
                           title="Favorite Scene"
                           frameBorder="0" 
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                           allowFullScreen
                         ></iframe>
-                        <div className="absolute inset-0 bg-linear-to-t from-black/40 via-transparent to-black/20" />
+                        <div className="absolute inset-0 bg-linear-to-t from-black/20 via-transparent to-black/20 pointer-events-none" />
                       </div>
                     )}
 
