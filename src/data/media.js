@@ -374,7 +374,7 @@ export const mediaData = [
     ],
     description: "Twins Dipper and Mabel Pines spend their summer in the mysterious town of Gravity Falls, uncovering secrets that go deeper than they ever imagined.",
     detailedReview: "Gravity Falls is a triumph of serialised storytelling. What starts as a 'mystery of the week' show quickly evolves into a complex, high-stakes conspiracy that rewards attentive viewers. The bond between Dipper and Mabel is the show's anchor, making every supernatural threat feel personal. It's a show that respects its audience's intelligence, hiding codes and clues in every frame, culminating in a finale that is as satisfying as it is emotional.",
-    topScene: "Yes the intro song to this series is epic. Listening to this theme song makes me feel so nostalgic. Also watch ",
+    topScene: "Yes the intro song to this series is epic. Listening to this theme song makes me feel so nostalgic.",
     topSceneVideoUrl: "https://www.youtube.com/embed/fye6jbyWfG0"
   },
   {
