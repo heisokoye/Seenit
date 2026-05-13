@@ -173,7 +173,7 @@ export const mediaData = [
     description: "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
     detailedReview: "James Cameron created an unparalleled cinematic spectacle that seamlessly blends an epic historical disaster with an incredibly effective romance. The sheer scale of the production and the emotional investment it earns remain impressive.",
     topScene: "The musicians playing Nearer My God To Thee as the ship sinks. This shows the courage and selflessness of people in the face of death.",
-    topSceneVideoUrl: "https://www.youtube.com/embed/VasSBV_fiNE&pp=ygUydGl0YW5pYyBiZXN0IHNjZW5lIHdoZW4gdGhlIG11c2ljaXNhbnMgYXJlIHBsYXlpbmc%3D"
+    topSceneVideoUrl: "https://www.youtube.com/embed/ur9JHXirUBs"
   },
   {
     id: "movie-6",
